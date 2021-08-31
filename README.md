@@ -1,6 +1,6 @@
 # Alleviair
 
-Cloud-based mapping for disaster response. (AngelHack @ Silicon Valley 2020)
+Cloud-based mapping for disaster response (AngelHack @ Silicon Valley 2020)
 
 [Web Portal](https://alleviair.herokuapp.com/)  
 [Messenger Chatbot](https://www.messenger.com/t/786686305061573)
